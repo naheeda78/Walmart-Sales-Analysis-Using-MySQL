@@ -77,6 +77,10 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 ```
 3. In which city is each branch?
 
+```sql
+SELECT DISTINCT city, branch FROM sales;
+```
+
 ### Product
 
 1. How many unique product lines does the data have?
