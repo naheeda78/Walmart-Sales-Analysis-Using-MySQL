@@ -72,8 +72,8 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 
 1. How many unique cities does the data have?
 
-```sql```
-SELECT DISTINCT city FROM sales;
+```sql
+   SELECT DISTINCT city FROM sales;
 ```
 3. In which city is each branch?
 
