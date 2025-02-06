@@ -75,7 +75,7 @@ The dataset was obtained from the [Kaggle Walmart Sales Forecasting Competition]
 ```sql
    SELECT DISTINCT city FROM sales;
 ```
-3. In which city is each branch?
+2. In which city is each branch?
 
 ```sql
 SELECT DISTINCT city, branch FROM sales;
